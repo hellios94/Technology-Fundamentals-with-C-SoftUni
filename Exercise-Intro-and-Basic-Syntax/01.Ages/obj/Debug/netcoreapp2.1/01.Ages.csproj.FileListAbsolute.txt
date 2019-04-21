@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\bin\Debug\netcoreapp2.1\01.Ages.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\bin\Debug\netcoreapp2.1\01.Ages.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\bin\Debug\netcoreapp2.1\01.Ages.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\bin\Debug\netcoreapp2.1\01.Ages.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\bin\Debug\netcoreapp2.1\01.Ages.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\obj\Debug\netcoreapp2.1\01.Ages.csprojAssemblyReference.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\obj\Debug\netcoreapp2.1\01.Ages.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\obj\Debug\netcoreapp2.1\01.Ages.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\obj\Debug\netcoreapp2.1\01.Ages.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\obj\Debug\netcoreapp2.1\01.Ages.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\01.Ages\obj\Debug\netcoreapp2.1\01.Ages.pdb

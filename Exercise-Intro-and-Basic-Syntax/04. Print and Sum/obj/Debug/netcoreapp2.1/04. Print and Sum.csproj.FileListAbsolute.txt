@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\bin\Debug\netcoreapp2.1\04. Print and Sum.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\bin\Debug\netcoreapp2.1\04. Print and Sum.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\bin\Debug\netcoreapp2.1\04. Print and Sum.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\bin\Debug\netcoreapp2.1\04. Print and Sum.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\bin\Debug\netcoreapp2.1\04. Print and Sum.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\obj\Debug\netcoreapp2.1\04. Print and Sum.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\obj\Debug\netcoreapp2.1\04. Print and Sum.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\obj\Debug\netcoreapp2.1\04. Print and Sum.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\obj\Debug\netcoreapp2.1\04. Print and Sum.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Exercise-Intro-and-Basic-Syntax\04. Print and Sum\obj\Debug\netcoreapp2.1\04. Print and Sum.pdb
