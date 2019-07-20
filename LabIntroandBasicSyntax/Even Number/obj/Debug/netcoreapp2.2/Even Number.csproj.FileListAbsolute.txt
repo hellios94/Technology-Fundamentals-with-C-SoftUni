@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\bin\Debug\netcoreapp2.2\Even Number.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\bin\Debug\netcoreapp2.2\Even Number.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\bin\Debug\netcoreapp2.2\Even Number.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\bin\Debug\netcoreapp2.2\Even Number.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\bin\Debug\netcoreapp2.2\Even Number.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\obj\Debug\netcoreapp2.2\Even Number.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\obj\Debug\netcoreapp2.2\Even Number.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\obj\Debug\netcoreapp2.2\Even Number.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\obj\Debug\netcoreapp2.2\Even Number.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Even Number\obj\Debug\netcoreapp2.2\Even Number.pdb

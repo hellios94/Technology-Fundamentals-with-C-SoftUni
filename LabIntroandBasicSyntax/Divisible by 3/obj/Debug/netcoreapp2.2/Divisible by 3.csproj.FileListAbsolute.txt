@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\bin\Debug\netcoreapp2.2\Divisible by 3.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\bin\Debug\netcoreapp2.2\Divisible by 3.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\bin\Debug\netcoreapp2.2\Divisible by 3.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\bin\Debug\netcoreapp2.2\Divisible by 3.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\bin\Debug\netcoreapp2.2\Divisible by 3.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\obj\Debug\netcoreapp2.2\Divisible by 3.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\obj\Debug\netcoreapp2.2\Divisible by 3.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\obj\Debug\netcoreapp2.2\Divisible by 3.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\obj\Debug\netcoreapp2.2\Divisible by 3.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Divisible by 3\obj\Debug\netcoreapp2.2\Divisible by 3.pdb

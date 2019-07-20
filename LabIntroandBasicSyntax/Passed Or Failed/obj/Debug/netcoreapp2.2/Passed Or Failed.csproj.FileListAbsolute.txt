@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\bin\Debug\netcoreapp2.2\Passed Or Failed.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\bin\Debug\netcoreapp2.2\Passed Or Failed.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\bin\Debug\netcoreapp2.2\Passed Or Failed.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\bin\Debug\netcoreapp2.2\Passed Or Failed.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\bin\Debug\netcoreapp2.2\Passed Or Failed.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\obj\Debug\netcoreapp2.2\Passed Or Failed.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\obj\Debug\netcoreapp2.2\Passed Or Failed.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\obj\Debug\netcoreapp2.2\Passed Or Failed.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\obj\Debug\netcoreapp2.2\Passed Or Failed.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\obj\Debug\netcoreapp2.2\Passed Or Failed.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Passed Or Failed\obj\Debug\netcoreapp2.2\Passed Or Failed.pdb

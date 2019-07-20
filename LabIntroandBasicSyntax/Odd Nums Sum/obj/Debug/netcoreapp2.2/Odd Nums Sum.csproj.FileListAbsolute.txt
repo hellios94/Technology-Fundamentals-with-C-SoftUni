@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\bin\Debug\netcoreapp2.2\Odd Nums Sum.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\bin\Debug\netcoreapp2.2\Odd Nums Sum.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\bin\Debug\netcoreapp2.2\Odd Nums Sum.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\bin\Debug\netcoreapp2.2\Odd Nums Sum.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\bin\Debug\netcoreapp2.2\Odd Nums Sum.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\obj\Debug\netcoreapp2.2\Odd Nums Sum.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\obj\Debug\netcoreapp2.2\Odd Nums Sum.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\obj\Debug\netcoreapp2.2\Odd Nums Sum.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\obj\Debug\netcoreapp2.2\Odd Nums Sum.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Odd Nums Sum\obj\Debug\netcoreapp2.2\Odd Nums Sum.pdb

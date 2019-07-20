@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.pdb

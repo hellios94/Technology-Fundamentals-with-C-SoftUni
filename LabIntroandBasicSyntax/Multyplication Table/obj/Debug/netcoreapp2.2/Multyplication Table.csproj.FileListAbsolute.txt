@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\bin\Debug\netcoreapp2.2\Multyplication Table.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\bin\Debug\netcoreapp2.2\Multyplication Table.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\bin\Debug\netcoreapp2.2\Multyplication Table.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\bin\Debug\netcoreapp2.2\Multyplication Table.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\bin\Debug\netcoreapp2.2\Multyplication Table.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\obj\Debug\netcoreapp2.2\Multyplication Table.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\obj\Debug\netcoreapp2.2\Multyplication Table.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\obj\Debug\netcoreapp2.2\Multyplication Table.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\obj\Debug\netcoreapp2.2\Multyplication Table.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Multyplication Table\obj\Debug\netcoreapp2.2\Multyplication Table.pdb

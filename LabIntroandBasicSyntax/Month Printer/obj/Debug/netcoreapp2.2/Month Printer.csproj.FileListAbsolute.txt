@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.pdb
