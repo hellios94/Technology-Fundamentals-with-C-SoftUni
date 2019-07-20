@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\bin\Debug\netcoreapp2.2\06. Reversed Chars.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\bin\Debug\netcoreapp2.2\06. Reversed Chars.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\bin\Debug\netcoreapp2.2\06. Reversed Chars.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\bin\Debug\netcoreapp2.2\06. Reversed Chars.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\bin\Debug\netcoreapp2.2\06. Reversed Chars.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\obj\Debug\netcoreapp2.2\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\obj\Debug\netcoreapp2.2\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\obj\Debug\netcoreapp2.2\06. Reversed Chars.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\obj\Debug\netcoreapp2.2\06. Reversed Chars.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\06. Reversed Chars\obj\Debug\netcoreapp2.2\06. Reversed Chars.pdb

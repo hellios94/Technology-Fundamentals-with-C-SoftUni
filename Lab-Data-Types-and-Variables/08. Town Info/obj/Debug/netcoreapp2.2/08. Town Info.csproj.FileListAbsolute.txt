@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\bin\Debug\netcoreapp2.2\08. Town Info.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\08. Town Info\obj\Debug\netcoreapp2.2\08. Town Info.pdb

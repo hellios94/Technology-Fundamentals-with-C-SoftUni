@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.2\12. Refactor Special Numbers.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.2\12. Refactor Special Numbers.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.2\12. Refactor Special Numbers.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.2\12. Refactor Special Numbers.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.2\12. Refactor Special Numbers.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.2\12. Refactor Special Numbers.csprojAssemblyReference.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.2\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.2\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.2\12. Refactor Special Numbers.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.2\12. Refactor Special Numbers.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.2\12. Refactor Special Numbers.pdb

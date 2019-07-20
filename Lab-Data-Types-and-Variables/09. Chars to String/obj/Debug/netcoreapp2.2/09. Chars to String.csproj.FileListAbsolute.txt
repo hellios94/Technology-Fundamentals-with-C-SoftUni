@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\bin\Debug\netcoreapp2.2\09. Chars to String.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\09. Chars to String\obj\Debug\netcoreapp2.2\09. Chars to String.pdb

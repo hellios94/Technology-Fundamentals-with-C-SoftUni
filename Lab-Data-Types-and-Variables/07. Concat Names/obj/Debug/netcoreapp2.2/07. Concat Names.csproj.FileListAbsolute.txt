@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\bin\Debug\netcoreapp2.2\07. Concat Names.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\07. Concat Names\obj\Debug\netcoreapp2.2\07. Concat Names.pdb

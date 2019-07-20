@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.2\11. Refactor Volume of Pyramid.pdb

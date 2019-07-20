@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\bin\Debug\netcoreapp2.2\10. Lower or Upper.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\bin\Debug\netcoreapp2.2\10. Lower or Upper.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\bin\Debug\netcoreapp2.2\10. Lower or Upper.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\bin\Debug\netcoreapp2.2\10. Lower or Upper.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\bin\Debug\netcoreapp2.2\10. Lower or Upper.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\obj\Debug\netcoreapp2.2\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\obj\Debug\netcoreapp2.2\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\obj\Debug\netcoreapp2.2\10. Lower or Upper.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\obj\Debug\netcoreapp2.2\10. Lower or Upper.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-SoftUni\Lab-Data-Types-and-Variables\10. Lower or Upper\obj\Debug\netcoreapp2.2\10. Lower or Upper.pdb
