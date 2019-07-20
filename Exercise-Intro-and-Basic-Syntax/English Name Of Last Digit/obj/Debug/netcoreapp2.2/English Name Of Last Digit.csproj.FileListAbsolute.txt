@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\bin\Debug\netcoreapp2.2\English Name Of Last Digit.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\bin\Debug\netcoreapp2.2\English Name Of Last Digit.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\bin\Debug\netcoreapp2.2\English Name Of Last Digit.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\bin\Debug\netcoreapp2.2\English Name Of Last Digit.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\bin\Debug\netcoreapp2.2\English Name Of Last Digit.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\obj\Debug\netcoreapp2.2\English Name Of Last Digit.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\obj\Debug\netcoreapp2.2\English Name Of Last Digit.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\obj\Debug\netcoreapp2.2\English Name Of Last Digit.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\obj\Debug\netcoreapp2.2\English Name Of Last Digit.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\English Name Of Last Digit\obj\Debug\netcoreapp2.2\English Name Of Last Digit.pdb

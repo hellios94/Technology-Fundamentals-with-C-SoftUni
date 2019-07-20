@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\bin\Debug\netcoreapp2.2\Vacation.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\bin\Debug\netcoreapp2.2\Vacation.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\bin\Debug\netcoreapp2.2\Vacation.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\bin\Debug\netcoreapp2.2\Vacation.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\bin\Debug\netcoreapp2.2\Vacation.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\obj\Debug\netcoreapp2.2\Vacation.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\obj\Debug\netcoreapp2.2\Vacation.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\obj\Debug\netcoreapp2.2\Vacation.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\obj\Debug\netcoreapp2.2\Vacation.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\obj\Debug\netcoreapp2.2\Vacation.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vacation\obj\Debug\netcoreapp2.2\Vacation.pdb

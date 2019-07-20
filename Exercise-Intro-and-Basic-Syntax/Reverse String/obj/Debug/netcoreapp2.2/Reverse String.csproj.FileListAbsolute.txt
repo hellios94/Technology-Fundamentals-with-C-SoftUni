@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\bin\Debug\netcoreapp2.2\Reverse String.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\bin\Debug\netcoreapp2.2\Reverse String.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\bin\Debug\netcoreapp2.2\Reverse String.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\bin\Debug\netcoreapp2.2\Reverse String.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\bin\Debug\netcoreapp2.2\Reverse String.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\obj\Debug\netcoreapp2.2\Reverse String.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\obj\Debug\netcoreapp2.2\Reverse String.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\obj\Debug\netcoreapp2.2\Reverse String.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\obj\Debug\netcoreapp2.2\Reverse String.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Reverse String\obj\Debug\netcoreapp2.2\Reverse String.pdb

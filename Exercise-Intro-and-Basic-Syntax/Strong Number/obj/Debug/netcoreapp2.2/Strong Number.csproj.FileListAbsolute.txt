@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\bin\Debug\netcoreapp2.2\Strong Number.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\bin\Debug\netcoreapp2.2\Strong Number.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\bin\Debug\netcoreapp2.2\Strong Number.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\bin\Debug\netcoreapp2.2\Strong Number.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\bin\Debug\netcoreapp2.2\Strong Number.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\obj\Debug\netcoreapp2.2\Strong Number.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\obj\Debug\netcoreapp2.2\Strong Number.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\obj\Debug\netcoreapp2.2\Strong Number.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\obj\Debug\netcoreapp2.2\Strong Number.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\obj\Debug\netcoreapp2.2\Strong Number.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Strong Number\obj\Debug\netcoreapp2.2\Strong Number.csprojAssemblyReference.cache

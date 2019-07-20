@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\bin\Debug\netcoreapp2.2\Gaming Store.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\bin\Debug\netcoreapp2.2\Gaming Store.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\bin\Debug\netcoreapp2.2\Gaming Store.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\bin\Debug\netcoreapp2.2\Gaming Store.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\bin\Debug\netcoreapp2.2\Gaming Store.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\obj\Debug\netcoreapp2.2\Gaming Store.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\obj\Debug\netcoreapp2.2\Gaming Store.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\obj\Debug\netcoreapp2.2\Gaming Store.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\obj\Debug\netcoreapp2.2\Gaming Store.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\obj\Debug\netcoreapp2.2\Gaming Store.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Gaming Store\obj\Debug\netcoreapp2.2\Gaming Store.pdb

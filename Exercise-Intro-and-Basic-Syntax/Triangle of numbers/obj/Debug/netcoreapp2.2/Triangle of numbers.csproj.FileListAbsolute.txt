@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\bin\Debug\netcoreapp2.2\Triangle of numbers.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\bin\Debug\netcoreapp2.2\Triangle of numbers.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\bin\Debug\netcoreapp2.2\Triangle of numbers.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\bin\Debug\netcoreapp2.2\Triangle of numbers.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\bin\Debug\netcoreapp2.2\Triangle of numbers.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\obj\Debug\netcoreapp2.2\Triangle of numbers.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\obj\Debug\netcoreapp2.2\Triangle of numbers.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\obj\Debug\netcoreapp2.2\Triangle of numbers.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\obj\Debug\netcoreapp2.2\Triangle of numbers.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Triangle of numbers\obj\Debug\netcoreapp2.2\Triangle of numbers.pdb

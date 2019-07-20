@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\bin\Debug\netcoreapp2.2\Padawan Equipment.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\bin\Debug\netcoreapp2.2\Padawan Equipment.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\bin\Debug\netcoreapp2.2\Padawan Equipment.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\bin\Debug\netcoreapp2.2\Padawan Equipment.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\bin\Debug\netcoreapp2.2\Padawan Equipment.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\obj\Debug\netcoreapp2.2\Padawan Equipment.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\obj\Debug\netcoreapp2.2\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\obj\Debug\netcoreapp2.2\Padawan Equipment.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\obj\Debug\netcoreapp2.2\Padawan Equipment.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\obj\Debug\netcoreapp2.2\Padawan Equipment.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Padawan Equipment\obj\Debug\netcoreapp2.2\Padawan Equipment.pdb

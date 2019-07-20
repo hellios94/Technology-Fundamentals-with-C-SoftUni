@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\bin\Debug\netcoreapp2.2\Login.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\bin\Debug\netcoreapp2.2\Login.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\bin\Debug\netcoreapp2.2\Login.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\bin\Debug\netcoreapp2.2\Login.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\bin\Debug\netcoreapp2.2\Login.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\obj\Debug\netcoreapp2.2\Login.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\obj\Debug\netcoreapp2.2\Login.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\obj\Debug\netcoreapp2.2\Login.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\obj\Debug\netcoreapp2.2\Login.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Login\obj\Debug\netcoreapp2.2\Login.pdb

@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\bin\Debug\netcoreapp2.2\01. Ages.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\bin\Debug\netcoreapp2.2\01. Ages.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\bin\Debug\netcoreapp2.2\01. Ages.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\bin\Debug\netcoreapp2.2\01. Ages.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\bin\Debug\netcoreapp2.2\01. Ages.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\obj\Debug\netcoreapp2.2\01. Ages.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\obj\Debug\netcoreapp2.2\01. Ages.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\obj\Debug\netcoreapp2.2\01. Ages.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\obj\Debug\netcoreapp2.2\01. Ages.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\obj\Debug\netcoreapp2.2\01. Ages.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\01. Ages\obj\Debug\netcoreapp2.2\01. Ages.pdb

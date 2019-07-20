@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\bin\Debug\netcoreapp2.2\Vending Machine.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\bin\Debug\netcoreapp2.2\Vending Machine.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\bin\Debug\netcoreapp2.2\Vending Machine.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\bin\Debug\netcoreapp2.2\Vending Machine.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\bin\Debug\netcoreapp2.2\Vending Machine.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\obj\Debug\netcoreapp2.2\Vending Machine.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\obj\Debug\netcoreapp2.2\Vending Machine.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\obj\Debug\netcoreapp2.2\Vending Machine.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\obj\Debug\netcoreapp2.2\Vending Machine.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\obj\Debug\netcoreapp2.2\Vending Machine.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Vending Machine\obj\Debug\netcoreapp2.2\Vending Machine.pdb

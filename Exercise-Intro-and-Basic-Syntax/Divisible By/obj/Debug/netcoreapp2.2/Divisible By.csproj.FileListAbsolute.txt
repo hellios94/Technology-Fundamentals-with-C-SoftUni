@@ -1,0 +1,11 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\bin\Debug\netcoreapp2.2\Divisible By.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\bin\Debug\netcoreapp2.2\Divisible By.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\bin\Debug\netcoreapp2.2\Divisible By.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\bin\Debug\netcoreapp2.2\Divisible By.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\bin\Debug\netcoreapp2.2\Divisible By.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\obj\Debug\netcoreapp2.2\Divisible By.csprojAssemblyReference.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\obj\Debug\netcoreapp2.2\Divisible By.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\obj\Debug\netcoreapp2.2\Divisible By.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\obj\Debug\netcoreapp2.2\Divisible By.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\obj\Debug\netcoreapp2.2\Divisible By.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Divisible By\obj\Debug\netcoreapp2.2\Divisible By.pdb

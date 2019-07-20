@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\bin\Debug\netcoreapp2.2\SortNums.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\bin\Debug\netcoreapp2.2\SortNums.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\bin\Debug\netcoreapp2.2\SortNums.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\bin\Debug\netcoreapp2.2\SortNums.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\bin\Debug\netcoreapp2.2\SortNums.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\obj\Debug\netcoreapp2.2\SortNums.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\obj\Debug\netcoreapp2.2\SortNums.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\obj\Debug\netcoreapp2.2\SortNums.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\obj\Debug\netcoreapp2.2\SortNums.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\SortNums\obj\Debug\netcoreapp2.2\SortNums.pdb

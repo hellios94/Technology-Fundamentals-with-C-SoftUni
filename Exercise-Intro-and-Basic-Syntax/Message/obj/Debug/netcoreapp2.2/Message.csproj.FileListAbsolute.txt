@@ -1,0 +1,10 @@
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\bin\Debug\netcoreapp2.2\Message.deps.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\bin\Debug\netcoreapp2.2\Message.runtimeconfig.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\bin\Debug\netcoreapp2.2\Message.runtimeconfig.dev.json
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\bin\Debug\netcoreapp2.2\Message.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\bin\Debug\netcoreapp2.2\Message.pdb
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\obj\Debug\netcoreapp2.2\Message.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\obj\Debug\netcoreapp2.2\Message.AssemblyInfoInputs.cache
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\obj\Debug\netcoreapp2.2\Message.AssemblyInfo.cs
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\obj\Debug\netcoreapp2.2\Message.dll
+D:\.Net Developement\C# Fundamentals\Basic Syntax Exercises\Message\obj\Debug\netcoreapp2.2\Message.pdb
