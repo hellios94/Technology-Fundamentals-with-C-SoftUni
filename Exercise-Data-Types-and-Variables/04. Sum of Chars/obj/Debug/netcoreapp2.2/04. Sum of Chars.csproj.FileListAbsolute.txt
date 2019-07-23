@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\bin\Debug\netcoreapp2.2\04. Sum of Chars.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\bin\Debug\netcoreapp2.2\04. Sum of Chars.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\bin\Debug\netcoreapp2.2\04. Sum of Chars.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\bin\Debug\netcoreapp2.2\04. Sum of Chars.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\bin\Debug\netcoreapp2.2\04. Sum of Chars.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\obj\Debug\netcoreapp2.2\04. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\obj\Debug\netcoreapp2.2\04. Sum of Chars.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\obj\Debug\netcoreapp2.2\04. Sum of Chars.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\obj\Debug\netcoreapp2.2\04. Sum of Chars.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\04. Sum of Chars\obj\Debug\netcoreapp2.2\04. Sum of Chars.pdb

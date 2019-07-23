@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\bin\Debug\netcoreapp2.2\14. Floating Equality.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\bin\Debug\netcoreapp2.2\14. Floating Equality.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\bin\Debug\netcoreapp2.2\14. Floating Equality.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\bin\Debug\netcoreapp2.2\14. Floating Equality.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\bin\Debug\netcoreapp2.2\14. Floating Equality.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\obj\Debug\netcoreapp2.2\14. Floating Equality.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\obj\Debug\netcoreapp2.2\14. Floating Equality.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\obj\Debug\netcoreapp2.2\14. Floating Equality.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\obj\Debug\netcoreapp2.2\14. Floating Equality.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\14. Floating Equality\obj\Debug\netcoreapp2.2\14. Floating Equality.pdb

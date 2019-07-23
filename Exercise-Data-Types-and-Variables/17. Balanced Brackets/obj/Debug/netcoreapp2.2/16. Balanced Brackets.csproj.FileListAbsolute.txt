@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\bin\Debug\netcoreapp2.2\16. Balanced Brackets.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\bin\Debug\netcoreapp2.2\16. Balanced Brackets.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\bin\Debug\netcoreapp2.2\16. Balanced Brackets.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\bin\Debug\netcoreapp2.2\16. Balanced Brackets.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\bin\Debug\netcoreapp2.2\16. Balanced Brackets.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\obj\Debug\netcoreapp2.2\16. Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\obj\Debug\netcoreapp2.2\16. Balanced Brackets.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\obj\Debug\netcoreapp2.2\16. Balanced Brackets.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\obj\Debug\netcoreapp2.2\16. Balanced Brackets.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\16. Balanced Brackets\obj\Debug\netcoreapp2.2\16. Balanced Brackets.pdb

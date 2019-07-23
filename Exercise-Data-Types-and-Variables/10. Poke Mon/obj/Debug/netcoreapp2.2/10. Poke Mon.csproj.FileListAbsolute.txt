@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\bin\Debug\netcoreapp2.2\10. Poke Mon.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\10. Poke Mon\obj\Debug\netcoreapp2.2\10. Poke Mon.pdb

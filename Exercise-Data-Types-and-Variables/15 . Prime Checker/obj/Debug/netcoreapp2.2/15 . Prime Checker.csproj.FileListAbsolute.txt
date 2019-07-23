@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\bin\Debug\netcoreapp2.2\15 . Prime Checker.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\bin\Debug\netcoreapp2.2\15 . Prime Checker.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\bin\Debug\netcoreapp2.2\15 . Prime Checker.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\bin\Debug\netcoreapp2.2\15 . Prime Checker.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\bin\Debug\netcoreapp2.2\15 . Prime Checker.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\obj\Debug\netcoreapp2.2\15 . Prime Checker.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\obj\Debug\netcoreapp2.2\15 . Prime Checker.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\obj\Debug\netcoreapp2.2\15 . Prime Checker.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\obj\Debug\netcoreapp2.2\15 . Prime Checker.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\15 . Prime Checker\obj\Debug\netcoreapp2.2\15 . Prime Checker.pdb

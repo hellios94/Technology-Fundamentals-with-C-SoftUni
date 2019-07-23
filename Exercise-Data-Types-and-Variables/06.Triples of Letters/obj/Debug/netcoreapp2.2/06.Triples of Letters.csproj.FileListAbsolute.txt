@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\bin\Debug\netcoreapp2.2\06.Triples of Letters.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\bin\Debug\netcoreapp2.2\06.Triples of Letters.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\bin\Debug\netcoreapp2.2\06.Triples of Letters.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\bin\Debug\netcoreapp2.2\06.Triples of Letters.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\bin\Debug\netcoreapp2.2\06.Triples of Letters.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\obj\Debug\netcoreapp2.2\06.Triples of Letters.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\obj\Debug\netcoreapp2.2\06.Triples of Letters.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\obj\Debug\netcoreapp2.2\06.Triples of Letters.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\obj\Debug\netcoreapp2.2\06.Triples of Letters.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\06.Triples of Letters\obj\Debug\netcoreapp2.2\06.Triples of Letters.pdb

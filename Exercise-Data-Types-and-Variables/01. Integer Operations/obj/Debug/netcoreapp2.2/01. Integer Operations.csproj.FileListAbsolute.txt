@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\bin\Debug\netcoreapp2.2\01. Integer Operations.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.csprojAssemblyReference.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Exercise-Data-Types-and-Variables\01. Integer Operations\obj\Debug\netcoreapp2.2\01. Integer Operations.pdb
